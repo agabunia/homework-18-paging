@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.example.homework_18_paging.fragment.MainFragment"
+        android:name="com.example.homework_18_paging.usersFragment.UsersFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" />
     <fragment

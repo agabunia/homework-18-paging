@@ -1,10 +1,9 @@
-package com.example.homework_18_paging.fragment
+package com.example.homework_18_paging.usersFragment
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
-import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.homework_18_paging.databinding.UserLayoutBinding

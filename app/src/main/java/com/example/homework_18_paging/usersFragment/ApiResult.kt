@@ -1,4 +1,4 @@
-package com.example.homework_18_paging.fragment
+package com.example.homework_18_paging.usersFragment
 
 import com.squareup.moshi.Json
 
